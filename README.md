@@ -8,4 +8,4 @@
 #luas lingkaran
 ![Alt Text](https://github.com/Syihabuddinsanni/JobSheetOperator/blob/master/Lingkaran.png)
 #luas segitiga
-!Alt Text](https://github.com/Syihabuddinsanni/JobSheetOperator/blob/master/Segitiga.png)
+![Alt Text](https://github.com/Syihabuddinsanni/JobSheetOperator/blob/master/Segitiga.png)
